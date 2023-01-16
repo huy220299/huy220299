@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **personalized application**
 
+- 👯 I’m looking for **freelance Jobs**
+
 - 👨‍💻 All of my projects are available at [https://github.com/huy220299](https://github.com/huy220299)
 
 - 📫 How to reach me **nvhuy220299@gmail.com**
